@@ -1,0 +1,36 @@
+body {
+    
+   background: linear-gradient(#EFC638, #416EB6);
+    margin: 0 auto;
+    padding: auto;
+    text-align:center;
+    justify-content:flex;
+    width: 720px;
+}
+
+.nav {
+   margin:auto;
+   border-style:5px solid black;
+   font-size:35px;
+}
+#content{
+    padding: 40px;
+    text-align: center;
+    justify-content:center;
+    font-weight: bold;
+    width:720px;
+    margin:auto;
+    font-size: 30px;
+    border-style:5px solid black;
+}
+img{
+  width: 400px;
+  height:400px;
+}
+h1{
+    
+    color:white;
+  }
+  h2{
+      color:white;
+  }
