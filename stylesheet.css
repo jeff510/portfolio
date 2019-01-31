@@ -12,6 +12,7 @@ body {
    display:flex;
    font-size:35px;
    justify-content:center;
+   
 }
 #content{
     padding: 40px;
